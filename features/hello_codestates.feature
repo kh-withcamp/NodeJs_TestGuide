@@ -5,4 +5,4 @@ Feature: Hello Code States
   Scenario: Visit index pages
   	Given I'm in blank page on browser
   	When I move to index page
-  	Then I should see the "Hello code states"
+  	Then I should see the "Hello code states!!!!"
